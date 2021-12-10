@@ -4,6 +4,7 @@ obj
 ProjectSettings
 UserSettings
 /Assets/Sprites
+/Assets/TextMesh Pro
 /.vs
 *.log
 Desktop
